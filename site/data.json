@@ -19465,6 +19465,15 @@
       "type": "TrailRun",
       "url": "https://www.strava.com/activities/18233736515",
       "year": 2026
+    },
+    {
+      "date": "2026-04-24",
+      "hour": 15,
+      "name": "Afternoon Trail Run",
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "url": "https://www.strava.com/activities/18246291361",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -36664,6 +36673,15 @@
           "distance": 14342.0,
           "elevation_gain": 569.0,
           "moving_time": 6020.0
+        },
+        "2026-04-24": {
+          "activity_ids": [
+            "18246291361"
+          ],
+          "count": 1,
+          "distance": 17261.0,
+          "elevation_gain": 359.0,
+          "moving_time": 6106.0
         }
       },
       "WeightTraining": {
@@ -36988,7 +37006,7 @@
       }
     }
   },
-  "generated_at": "2026-04-24T15:32:17.933925+00:00",
+  "generated_at": "2026-04-25T15:19:59.028966+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/24295549",
   "repo": "ml-rowlands/git-nicks-ass",
