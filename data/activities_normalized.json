@@ -28194,5 +28194,70 @@
     "start_date_local": "2026-04-28T16:48:20Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-29",
+    "distance": 11683.0,
+    "elevation_gain": 235.0,
+    "id": "18321369692",
+    "moving_time": 4353.0,
+    "name": "Afternoon Trail Run",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-04-29T17:06:23Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18324850789",
+    "moving_time": 1519.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-30T16:18:58Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 13585.0,
+    "elevation_gain": 341.0,
+    "id": "18326557382",
+    "moving_time": 2342.0,
+    "name": "Afternoon Gravel Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-04-30T17:22:11Z",
+    "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 11686.0,
+    "elevation_gain": 521.0,
+    "id": "18326559633",
+    "moving_time": 5160.0,
+    "name": "Evening Trail Run",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-04-30T18:13:36Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 13019.0,
+    "elevation_gain": 34.0,
+    "id": "18326560497",
+    "moving_time": 1719.0,
+    "name": "Evening Gravel Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-04-30T19:49:54Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
