@@ -28259,5 +28259,18 @@
     "start_date_local": "2026-04-30T19:49:54Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 10352.0,
+    "elevation_gain": 151.0,
+    "id": "18339727810",
+    "moving_time": 4094.0,
+    "name": "Afternoon Trail Run",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-05-01T17:16:32Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
