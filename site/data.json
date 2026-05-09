@@ -19645,6 +19645,51 @@
       "type": "TrailRun",
       "url": "https://www.strava.com/activities/18406735744",
       "year": 2026
+    },
+    {
+      "date": "2026-05-07",
+      "hour": 16,
+      "name": "Afternoon Gravel Ride",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/18427284052",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-07",
+      "hour": 18,
+      "name": "Evening Trail Run",
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "url": "https://www.strava.com/activities/18427290911",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-07",
+      "hour": 19,
+      "name": "Evening Gravel Ride",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/18427292936",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-08",
+      "hour": 15,
+      "name": "Afternoon Gravel Ride",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/18431144871",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-08",
+      "hour": 19,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18432237349",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -35814,6 +35859,25 @@
           "distance": 26604.0,
           "elevation_gain": 375.0,
           "moving_time": 4061.0
+        },
+        "2026-05-07": {
+          "activity_ids": [
+            "18427284052",
+            "18427292936"
+          ],
+          "count": 2,
+          "distance": 26822.0,
+          "elevation_gain": 449.0,
+          "moving_time": 4929.0
+        },
+        "2026-05-08": {
+          "activity_ids": [
+            "18431144871"
+          ],
+          "count": 1,
+          "distance": 27960.0,
+          "elevation_gain": 115.0,
+          "moving_time": 4288.0
         }
       },
       "Hike": {
@@ -36634,6 +36698,15 @@
           "distance": 2568.0,
           "elevation_gain": 6.0,
           "moving_time": 845.0
+        },
+        "2026-05-08": {
+          "activity_ids": [
+            "18432237349"
+          ],
+          "count": 1,
+          "distance": 1685.0,
+          "elevation_gain": 0.0,
+          "moving_time": 367.0
         }
       },
       "TrailRun": {
@@ -36973,6 +37046,15 @@
           "distance": 6814.0,
           "elevation_gain": 562.0,
           "moving_time": 3335.0
+        },
+        "2026-05-07": {
+          "activity_ids": [
+            "18427290911"
+          ],
+          "count": 1,
+          "distance": 14595.0,
+          "elevation_gain": 472.0,
+          "moving_time": 5707.0
         }
       },
       "WeightTraining": {
@@ -37324,7 +37406,7 @@
       }
     }
   },
-  "generated_at": "2026-05-08T15:38:59.039642+00:00",
+  "generated_at": "2026-05-09T15:24:55.415036+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/24295549",
   "repo": "ml-rowlands/git-nicks-ass",
