@@ -28766,5 +28766,31 @@
     "start_date_local": "2026-05-21T18:34:17Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-05-22",
+    "distance": 34821.0,
+    "elevation_gain": 588.0,
+    "id": "18614942429",
+    "moving_time": 7121.0,
+    "name": "Afternoon Mountain Bike Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-05-22T16:40:10Z",
+    "type": "MountainBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-22",
+    "distance": 34871.1,
+    "elevation_gain": 576.0,
+    "id": "18621505534",
+    "moving_time": 7090.0,
+    "name": "Afternoon Mountain Bike Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-05-22T16:39:52Z",
+    "type": "MountainBikeRide",
+    "year": 2026
   }
 ]
