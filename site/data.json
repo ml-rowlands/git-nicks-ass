@@ -19933,6 +19933,24 @@
       "type": "MountainBikeRide",
       "url": "https://www.strava.com/activities/18621505534",
       "year": 2026
+    },
+    {
+      "date": "2026-05-23",
+      "hour": 9,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18624400664",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-23",
+      "hour": 12,
+      "name": "Lunch Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18625534658",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -37060,6 +37078,15 @@
           "distance": 1432.0,
           "elevation_gain": 18.0,
           "moving_time": 490.0
+        },
+        "2026-05-23": {
+          "activity_ids": [
+            "18624400664"
+          ],
+          "count": 1,
+          "distance": 11852.0,
+          "elevation_gain": 46.0,
+          "moving_time": 4376.0
         }
       },
       "Swim": {
@@ -37845,6 +37872,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1504.0
+        },
+        "2026-05-23": {
+          "activity_ids": [
+            "18625534658"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1227.0
         }
       },
       "Workout": {
@@ -37878,7 +37914,7 @@
       }
     }
   },
-  "generated_at": "2026-05-23T15:29:24.400887+00:00",
+  "generated_at": "2026-05-24T15:29:57.527797+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/24295549",
   "repo": "ml-rowlands/git-nicks-ass",
