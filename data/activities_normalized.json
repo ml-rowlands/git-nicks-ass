@@ -28922,5 +28922,18 @@
     "start_date_local": "2026-05-29T15:05:00Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-05-30",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18721743965",
+    "moving_time": 2033.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-30T17:11:23Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
