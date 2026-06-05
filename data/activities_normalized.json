@@ -28987,5 +28987,31 @@
     "start_date_local": "2026-06-03T15:44:38Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 35966.2,
+    "elevation_gain": 759.0,
+    "id": "18791041206",
+    "moving_time": 8195.0,
+    "name": "Afternoon Mountain Bike Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-06-04T16:09:29Z",
+    "type": "MountainBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 36050.0,
+    "elevation_gain": 761.0,
+    "id": "18791061000",
+    "moving_time": 8335.0,
+    "name": "Afternoon Mountain Bike Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-06-04T16:09:39Z",
+    "type": "MountainBikeRide",
+    "year": 2026
   }
 ]
