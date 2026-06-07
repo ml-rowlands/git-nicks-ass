@@ -29013,5 +29013,44 @@
     "start_date_local": "2026-06-04T16:09:39Z",
     "type": "MountainBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-05",
+    "distance": 9926.0,
+    "elevation_gain": 40.0,
+    "id": "18816388839",
+    "moving_time": 3613.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-05T16:29:27Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 82392.0,
+    "elevation_gain": 1776.0,
+    "id": "18815012504",
+    "moving_time": 18207.0,
+    "name": "Morning Mountain Bike Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-06-06T08:21:21Z",
+    "type": "MountainBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 82443.0,
+    "elevation_gain": 1751.0,
+    "id": "18816397466",
+    "moving_time": 18048.0,
+    "name": "Morning Gravel Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-06-06T08:21:32Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T15:33:00.122230+00:00",
+  "generated_at": "2026-06-07T15:35:19.831453+00:00",
   "years": {
     "2017": {
       "Elliptical": {
@@ -16214,6 +16214,15 @@
           "distance": 6317.0,
           "elevation_gain": 84.0,
           "moving_time": 1034.0
+        },
+        "2026-06-06": {
+          "activity_ids": [
+            "18816397466"
+          ],
+          "count": 1,
+          "distance": 82443.0,
+          "elevation_gain": 1751.0,
+          "moving_time": 18048.0
         }
       },
       "Hike": {
@@ -16265,6 +16274,15 @@
           "distance": 72016.2,
           "elevation_gain": 1520.0,
           "moving_time": 16530.0
+        },
+        "2026-06-06": {
+          "activity_ids": [
+            "18815012504"
+          ],
+          "count": 1,
+          "distance": 82392.0,
+          "elevation_gain": 1776.0,
+          "moving_time": 18207.0
         }
       },
       "NordicSki": {
@@ -17208,6 +17226,15 @@
           "distance": 14433.0,
           "elevation_gain": 24.0,
           "moving_time": 4312.0
+        },
+        "2026-06-05": {
+          "activity_ids": [
+            "18816388839"
+          ],
+          "count": 1,
+          "distance": 9926.0,
+          "elevation_gain": 40.0,
+          "moving_time": 3613.0
         }
       },
       "Swim": {
