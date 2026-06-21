@@ -20293,6 +20293,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18990465121",
       "year": 2026
+    },
+    {
+      "date": "2026-06-20",
+      "hour": 11,
+      "name": "Lunch Trail Run",
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "url": "https://www.strava.com/activities/19001606414",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -38063,6 +38072,15 @@
           "distance": 17051.0,
           "elevation_gain": 500.0,
           "moving_time": 6675.0
+        },
+        "2026-06-20": {
+          "activity_ids": [
+            "19001606414"
+          ],
+          "count": 1,
+          "distance": 24900.0,
+          "elevation_gain": 896.0,
+          "moving_time": 10100.0
         }
       },
       "WeightTraining": {
@@ -38558,7 +38576,7 @@
       }
     }
   },
-  "generated_at": "2026-06-20T15:38:55.364651+00:00",
+  "generated_at": "2026-06-21T15:39:38.818595+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/24295549",
   "repo": "ml-rowlands/git-nicks-ass",
