@@ -20320,6 +20320,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/19028681933",
       "year": 2026
+    },
+    {
+      "date": "2026-06-23",
+      "hour": 16,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19042345921",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -37631,6 +37640,15 @@
           "distance": 9870.0,
           "elevation_gain": 58.0,
           "moving_time": 3412.0
+        },
+        "2026-06-23": {
+          "activity_ids": [
+            "19042345921"
+          ],
+          "count": 1,
+          "distance": 10731.0,
+          "elevation_gain": 42.0,
+          "moving_time": 3789.0
         }
       },
       "Swim": {
@@ -38612,7 +38630,7 @@
       }
     }
   },
-  "generated_at": "2026-06-23T16:02:37.320658+00:00",
+  "generated_at": "2026-06-24T15:49:32.955451+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/24295549",
   "repo": "ml-rowlands/git-nicks-ass",
