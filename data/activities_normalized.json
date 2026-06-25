@@ -29364,5 +29364,44 @@
     "start_date_local": "2026-06-23T16:15:19Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-24",
+    "distance": 252.0,
+    "elevation_gain": 0.0,
+    "id": "19054880514",
+    "moving_time": 92.0,
+    "name": "Afternoon Trail Run",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-06-24T15:03:37Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-24",
+    "distance": 9371.0,
+    "elevation_gain": 415.0,
+    "id": "19055001676",
+    "moving_time": 3864.0,
+    "name": "Afternoon Trail Run",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-06-24T15:05:57Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-24",
+    "distance": 4251.0,
+    "elevation_gain": 18.0,
+    "id": "19055003238",
+    "moving_time": 747.0,
+    "name": "Afternoon Gravel Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-06-24T16:18:21Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
