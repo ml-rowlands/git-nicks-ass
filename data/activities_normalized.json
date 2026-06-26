@@ -29403,5 +29403,44 @@
     "start_date_local": "2026-06-24T16:18:21Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-25",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19067606437",
+    "moving_time": 1699.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-25T16:45:04Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-25",
+    "distance": 1656.0,
+    "elevation_gain": 9.0,
+    "id": "19069201603",
+    "moving_time": 379.0,
+    "name": "Afternoon Gravel Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-06-25T17:50:42Z",
+    "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-25",
+    "distance": 54497.0,
+    "elevation_gain": 810.0,
+    "id": "19069208227",
+    "moving_time": 9629.0,
+    "name": "Evening Gravel Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-06-25T18:05:28Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
