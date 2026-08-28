@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T16:20:22.200000+00:00",
+  "generated_at": "2026-08-28T00:18:14.379149+00:00",
   "years": {
     "2017": {
       "Elliptical": {
@@ -16269,6 +16269,15 @@
           "distance": 56153.0,
           "elevation_gain": 819.0,
           "moving_time": 10008.0
+        },
+        "2026-08-26": {
+          "activity_ids": [
+            "19916809365"
+          ],
+          "count": 1,
+          "distance": 3531.0,
+          "elevation_gain": 11.0,
+          "moving_time": 627.0
         }
       },
       "Hike": {
@@ -17970,6 +17979,15 @@
           "distance": 8815.0,
           "elevation_gain": 196.0,
           "moving_time": 3478.0
+        },
+        "2026-08-26": {
+          "activity_ids": [
+            "19916930837"
+          ],
+          "count": 1,
+          "distance": 12738.0,
+          "elevation_gain": 1128.0,
+          "moving_time": 8478.0
         }
       },
       "WeightTraining": {
@@ -18495,6 +18513,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2549.0
+        },
+        "2026-08-27": {
+          "activity_ids": [
+            "19928575518"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2010.0
         }
       },
       "Workout": {
