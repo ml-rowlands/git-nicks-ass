@@ -20887,6 +20887,15 @@
       "type": "GravelRide",
       "url": "https://www.strava.com/activities/20414107408",
       "year": 2026
+    },
+    {
+      "date": "2026-10-03",
+      "hour": 11,
+      "name": "Lunch Gravel Ride",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/20439867667",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -37185,6 +37194,15 @@
           "distance": 22807.0,
           "elevation_gain": 258.0,
           "moving_time": 3615.0
+        },
+        "2026-10-03": {
+          "activity_ids": [
+            "20439867667"
+          ],
+          "count": 1,
+          "distance": 122014.0,
+          "elevation_gain": 775.0,
+          "moving_time": 18009.0
         }
       },
       "Hike": {
@@ -39706,7 +39724,7 @@
       }
     }
   },
-  "generated_at": "2026-10-03T18:35:06.484955+00:00",
+  "generated_at": "2026-10-04T18:34:07.301407+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/24295549",
   "repo": "ml-rowlands/git-nicks-ass",
