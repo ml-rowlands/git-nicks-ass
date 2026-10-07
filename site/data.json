@@ -20905,6 +20905,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20455153048",
       "year": 2026
+    },
+    {
+      "date": "2026-10-05",
+      "hour": 18,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20482922167",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-06",
+      "hour": 16,
+      "name": "Afternoon Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/20482922282",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-06",
+      "hour": 18,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20482922415",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -38408,6 +38435,24 @@
           "distance": 6055.0,
           "elevation_gain": 28.0,
           "moving_time": 2056.0
+        },
+        "2026-10-05": {
+          "activity_ids": [
+            "20482922167"
+          ],
+          "count": 1,
+          "distance": 9663.0,
+          "elevation_gain": 30.0,
+          "moving_time": 3652.0
+        },
+        "2026-10-06": {
+          "activity_ids": [
+            "20482922415"
+          ],
+          "count": 1,
+          "distance": 6367.0,
+          "elevation_gain": 21.0,
+          "moving_time": 2390.0
         }
       },
       "Swim": {
@@ -39709,6 +39754,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1141.0
+        },
+        "2026-10-06": {
+          "activity_ids": [
+            "20482922282"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1823.0
         }
       },
       "Workout": {
@@ -39742,7 +39796,7 @@
       }
     }
   },
-  "generated_at": "2026-10-06T20:04:31.667272+00:00",
+  "generated_at": "2026-10-07T20:29:32.800511+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/24295549",
   "repo": "ml-rowlands/git-nicks-ass",
