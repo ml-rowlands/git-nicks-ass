@@ -20995,6 +20995,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20567928478",
       "year": 2026
+    },
+    {
+      "date": "2026-10-13",
+      "hour": 15,
+      "name": "Afternoon Trail Run",
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "url": "https://www.strava.com/activities/20574539552",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-13",
+      "hour": 17,
+      "name": "Afternoon Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/20575253298",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-13",
+      "hour": 17,
+      "name": "Afternoon Gravel Ride",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/20575254621",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -37302,6 +37329,15 @@
           "distance": 122014.0,
           "elevation_gain": 775.0,
           "moving_time": 18009.0
+        },
+        "2026-10-13": {
+          "activity_ids": [
+            "20575254621"
+          ],
+          "count": 1,
+          "distance": 6670.0,
+          "elevation_gain": 19.0,
+          "moving_time": 1067.0
         }
       },
       "Hike": {
@@ -39256,6 +39292,15 @@
           "distance": 12112.0,
           "elevation_gain": 436.0,
           "moving_time": 5391.0
+        },
+        "2026-10-13": {
+          "activity_ids": [
+            "20574539552"
+          ],
+          "count": 1,
+          "distance": 12217.0,
+          "elevation_gain": 255.0,
+          "moving_time": 4215.0
         }
       },
       "WeightTraining": {
@@ -39889,6 +39934,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 451.0
+        },
+        "2026-10-13": {
+          "activity_ids": [
+            "20575253298"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 765.0
         }
       },
       "Workout": {
@@ -39922,7 +39976,7 @@
       }
     }
   },
-  "generated_at": "2026-10-13T20:33:01.591297+00:00",
+  "generated_at": "2026-10-14T19:13:51.835931+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/24295549",
   "repo": "ml-rowlands/git-nicks-ass",
