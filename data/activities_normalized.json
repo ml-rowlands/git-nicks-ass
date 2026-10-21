@@ -30430,5 +30430,18 @@
     "start_date_local": "2026-10-18T05:03:55Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-10-20",
+    "distance": 24854.0,
+    "elevation_gain": 425.0,
+    "id": "20668663769",
+    "moving_time": 5159.0,
+    "name": "Afternoon Mountain Bike Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-10-20T16:46:09Z",
+    "type": "MountainBikeRide",
+    "year": 2026
   }
 ]
