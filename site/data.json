@@ -21094,6 +21094,24 @@
       "type": "TrailRun",
       "url": "https://www.strava.com/activities/20682516609",
       "year": 2026
+    },
+    {
+      "date": "2026-10-22",
+      "hour": 16,
+      "name": "Afternoon Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/20694320728",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-22",
+      "hour": 17,
+      "name": "Afternoon Trail Run",
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "url": "https://www.strava.com/activities/20695087052",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -39428,6 +39446,15 @@
           "distance": 7785.0,
           "elevation_gain": 174.0,
           "moving_time": 3277.0
+        },
+        "2026-10-22": {
+          "activity_ids": [
+            "20695087052"
+          ],
+          "count": 1,
+          "distance": 9566.0,
+          "elevation_gain": 275.0,
+          "moving_time": 3636.0
         }
       },
       "WeightTraining": {
@@ -40079,6 +40106,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1730.0
+        },
+        "2026-10-22": {
+          "activity_ids": [
+            "20694320728"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1585.0
         }
       },
       "Workout": {
@@ -40112,7 +40148,7 @@
       }
     }
   },
-  "generated_at": "2026-10-22T19:05:18.061534+00:00",
+  "generated_at": "2026-10-23T18:55:51.143632+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/24295549",
   "repo": "ml-rowlands/git-nicks-ass",
