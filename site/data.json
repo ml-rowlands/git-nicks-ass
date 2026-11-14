@@ -21292,6 +21292,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20955018418",
       "year": 2026
+    },
+    {
+      "date": "2026-11-12",
+      "hour": 15,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20987867031",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-14",
+      "hour": 11,
+      "name": "Lunch Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20987870368",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -38967,6 +38985,24 @@
           "distance": 22526.0,
           "elevation_gain": 298.0,
           "moving_time": 8519.0
+        },
+        "2026-11-12": {
+          "activity_ids": [
+            "20987867031"
+          ],
+          "count": 1,
+          "distance": 10258.0,
+          "elevation_gain": 64.0,
+          "moving_time": 3541.0
+        },
+        "2026-11-14": {
+          "activity_ids": [
+            "20987870368"
+          ],
+          "count": 1,
+          "distance": 9894.0,
+          "elevation_gain": 140.0,
+          "moving_time": 3500.0
         }
       },
       "Swim": {
@@ -40508,7 +40544,7 @@
       }
     }
   },
-  "generated_at": "2026-11-13T21:16:15.700378+00:00",
+  "generated_at": "2026-11-14T19:48:28.425533+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/24295549",
   "repo": "ml-rowlands/git-nicks-ass",
